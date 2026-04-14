@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0891b2&labelColor=1c1917)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?logo=GitHub&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=rokadediksha&style=for-the-badge&color=0891b2&labelColor=1c1917)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?logo=GitHub&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/rokadediksha)
 
 </div>
 
@@ -21,13 +21,8 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "[Your Full Name]"
-location: "India 🇮🇳"
-education: "BSc. Information Technology"
-role: "AWS Cloud & DevOps Engineer"
-currently_learning: ["Advanced Kubernetes", "GitOps", "AWS Solutions Architect"]
-open_to: ["Full-time Roles", "Freelance Projects", "Open Source Contributions"]
-fun_fact: "I automate everything — even my coffee reminders ☕"
+name: "[Diksha Vijay Rokade]"
+I am a BSc IT graduate with a strong interest in cloud computing and DevOps. I have hands-on experience with AWS services, CI/CD pipelines, and version control using Git. I enjoy building scalable applications and continuously learning new technologies to improve my skills.
 ```
 
 ---
@@ -64,7 +59,6 @@ fun_fact: "I automate everything — even my coffee reminders ☕"
 
 ---
 
-## 🏗️ DevOps Architecture I Work With
 
 ```
 Developer  →  Git Push  →  CI/CD Pipeline  →  Docker Build  →  ECR
@@ -78,20 +72,6 @@ Developer  →  Git Push  →  CI/CD Pipeline  →  Docker Build  →  ECR
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -99,8 +79,8 @@ Developer  →  Git Push  →  CI/CD Pipeline  →  Docker Build  →  ECR
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=aws-devops-project-1&theme=tokyonight&border_radius=12)](https://github.com/yourusername/aws-devops-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=terraform-infrastructure&theme=tokyonight&border_radius=12)](https://github.com/yourusername/terraform-infrastructure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=aws-devops-project-1&theme=tokyonight&border_radius=12)](https://github.com/rokadediksha/Secure-file-upload-Project.git)
+
 
 </div>
 
@@ -110,33 +90,36 @@ Developer  →  Git Push  →  CI/CD Pipeline  →  Docker Build  →  ECR
 
 | Domain | Skills | Level |
 |--------|--------|-------|
-| ☁️ **AWS Cloud** | EC2, S3, IAM, VPC, ELB, Auto Scaling | ██████████ 90% |
-| 🐳 **Containerization** | Docker, Kubernetes, Helm | █████████░ 85% |
-| 🔧 **IaC** | Terraform | ████████░░ 80% |
-| 🔄 **CI/CD** | GitHub Actions, Jenkins | ████████░░ 80% |
-| 📦 **Version Control** | Git, GitHub | ██████████ 95% |
-| 🐚 **Scripting** | Bash, YAML, Python basics | ███████░░░ 70% |
+| ☁️ **AWS Cloud** | EC2, S3, IAM, VPC, ELB, Auto Scaling | 
+| 🐳 **Containerization** | Docker, Kubernetes, Helm | 
+| 🔧 **IaC** | Terraform | 
+| 🔄 **CI/CD** | GitHub Actions, Jenkins | 
+| 📦 **Version Control** | Git, GitHub | 
+| 🐚 **Scripting** | Bash, YAML, Python basics | 
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
+## 💼 Available For
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=38bdae&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+I am currently available for:
+- **Full-time positions** in DevOps, Cloud Engineering, or Site Reliability Engineering (SRE)
+- **Contract/Freelance projects** involving infrastructure automation and cloud migrations
+- **Consulting** on cloud architecture and DevOps transformation initiatives
+- **Collaboration** on open-source DevOps tools and infrastructure projects
 
 ---
+
+
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diksha-rokade-6a93bb308)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailt0:rokadediksha0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rokadediksha)
+
 
 </div>
 
