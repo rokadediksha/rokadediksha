@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BSc.IT%20Graduate%20%7C%20AWS%20Cloud%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20[Diksha Rokade]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=BSc.IT%20Graduate%20%7C%20AWS%20Cloud%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -21,10 +21,14 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "[Diksha Vijay Rokade]"
-I am a BSc IT graduate with a strong interest in cloud computing and DevOps. I have hands-on experience with AWS services, CI/CD pipelines, and version control using Git. I enjoy building scalable applications and continuously learning new technologies to improve my skills.
-```
+name: "Diksha Vijay Rokade"
+role: "AWS & DevOps Enthusiast"
+education: "BSc IT Graduate"
 
+summary: >
+  Passionate about Cloud Computing and DevOps with hands-on experience in AWS,
+  CI/CD pipelines, and version control using Git. I enjoy building scalable,
+  reliable systems and continuously learning modern technologies.
 ---
 
 ## ☁️ Cloud & DevOps Stack
@@ -59,37 +63,69 @@ I am a BSc IT graduate with a strong interest in cloud computing and DevOps. I h
 
 ---
 
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rokadediksha&show_icons=true&theme=tokyonight&border_radius=12" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokadediksha&theme=tokyonight&border_radius=12" height="180"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokadediksha&layout=compact&theme=tokyonight&border_radius=12" height="150"/> </div>
 
-```
-Developer  →  Git Push  →  CI/CD Pipeline  →  Docker Build  →  ECR
-                                                                    ↓
-                                                         Kubernetes Cluster (EKS)
-                                                                    ↓
-                             AWS VPC  ←  Load Balancer  ←  Auto Scaling Group
-                                ↓
-                         EC2 | S3 | IAM | Terraform (IaC)
-```
+
+🏗️ DevOps Project Architecture (AWS + CI/CD)
+                👨‍💻 Developer
+                      │
+                      ▼
+                GitHub Repository
+                      │
+                      ▼
+            GitHub Actions (CI/CD)
+          ─────────────────────────
+          ✔ Build Application
+          ✔ Run Tests
+          ✔ Package Code
+          ✔ Deploy to AWS
+          ─────────────────────────
+                      │
+                      ▼
+                Amazon EC2
+            (Application Server)
+                      │
+                      ▼
+            NGINX / Web Server
+                      │
+                      ▼
+             Load Balancer (ELB)
+                      │
+                      ▼
+                 Users 🌍
+
+────────────────────────────────────────────
+
+Infrastructure (Terraform - IaC)
+✔ VPC
+✔ Subnets
+✔ EC2 Instances
+✔ Security Groups
+✔ IAM Roles
+
+Storage
+✔ Amazon S3 (Static files / backups)
+
+Security
+✔ IAM Policies
+✔ Security Groups
+✔ HTTPS (SSL)
 
 ---
 
 
 ---
+🚀 Featured Project
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=aws-devops-project-1&theme=tokyonight&border_radius=12)](https://github.com/rokadediksha/Secure-file-upload-Project.git)
-
-
-</div>
-
+🔗 Secure File Upload System
+👉 https://github.com/rokadediksha/Secure-file-upload-Project.git
 ---
 
 ## 🎯 Expertise Roadmap
 
-| Domain | Skills | Level |
-|--------|--------|-------|
+| Domain | Skills | 
+|--------|--------|
 | ☁️ **AWS Cloud** | EC2, S3, IAM, VPC, ELB, Auto Scaling | 
 | 🐳 **Containerization** | Docker, Kubernetes, Helm | 
 | 🔧 **IaC** | Terraform | 
@@ -111,17 +147,10 @@ I am currently available for:
 ---
 
 
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diksha-rokade-6a93bb308)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailt0:rokadediksha0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rokadediksha)
-
-
-</div>
+🤝 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/diksha-rokade-6a93bb308
+📧 Email: rokadediksha0@gmail.com
+💻 GitHub: https://github.com/rokadediksha
 
 ---
 
