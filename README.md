@@ -126,7 +126,9 @@ Users 🌍
 
 ### 🔐 Secure File Upload System  
 🔗 https://github.com/rokadediksha/Secure-file-upload-Project.git  
-
+### <img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/56b8cdb7-6b8d-4122-9de1-a5103aa06e68" />
+Hospital Management System Using CICD
+https://github.com/rokadediksha/hms.git
 ---
 
 ## 🎯 Expertise
